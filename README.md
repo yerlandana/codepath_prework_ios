@@ -4,7 +4,7 @@ App Description
 TODO: ios application that gets student'd first,last and school name. In addition, School label, A segmented control for the academic year, Switch for more pets. Then show message based oon data you got.
 
 App Walk-though
-TODO: ![](https://i.imgur.com/a/gE33X52.gif)
+TODO: ![](https://github.com/yerlandana/codepath_prework_ios/blob/main/hometask.gif)
 
 Required Features
 1. App displays an image of a school's logo [x]
